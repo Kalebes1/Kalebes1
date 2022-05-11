@@ -1,4 +1,4 @@
-### Olá, me chamo sou Kalebe Silva.
+### Olá, me chamo Kalebe Silva.
 - 🔭 Estudante de Analise e Desenvolvimento de Sistemas
 - 🌱 Aprendendo NodeJs e Typescript
 <div align="center">
