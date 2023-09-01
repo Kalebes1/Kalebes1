@@ -1,6 +1,6 @@
 ### Olá, me chamo Kalebe.
-- 🔭 Estudante de Analise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo NodeJs e Typescript
+- 🔭 Formado em Analise e Desenvolvimento de Sistemas
+- 🌱 React, Nodejs e Typescript
 <div align="center">
   <a href="https://github.com/Kalebes1">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Kalebes1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
